@@ -1,0 +1,102 @@
+User ID,nama,jenis_kelamin,pekerjaan,usia,kota,Rating,Car Make,Price
+1,John Doe,Laki-laki,Dokter,30,Jakarta,8.5,BMW M4,800000000
+2,Jane Smith,Perempuan,Pengacara,35,Surabaya,7.8,Porsche 911,1000000000
+3,Michael Johnson,Laki-laki,Pengusaha,40,Bandung,8.9,Audi R8,1500000000
+4,Emily Brown,Perempuan,Pengajar,28,Medan,7.2,Ford Mustang,600000000
+5,David Wilson,Laki-laki,Insinyur,45,Yogyakarta,9.3,Chevrolet Corvette,2000000000
+6,Sarah Martinez,Perempuan,Akuntan,33,Denpasar,8.0,Nissan GT-R,1300000000
+7,Christopher Lee,Laki-laki,Pilot,38,Makassar,8.7,Mercedes-Benz AMG GT,1800000000
+8,Maria Garcia,Perempuan,Desainer,25,Semarang,7.5,Jaguar F-Type,900000000
+9,William Rodriguez,Laki-laki,Dokter,32,Surakarta,8.2,Toyota Supra,700000000
+10,Olivia Nguyen,Perempuan,Arsitek,37,Bekasi,7.0,Ferrari 488 GTB,2200000000
+11,Ethan Kim,Laki-laki,IT Specialist,29,Tangerang,8.4,Lamborghini Huracan,2500000000
+12,Isabella Singh,Perempuan,Manajer Keuangan,42,Batam,8.6,McLaren 720S,3000000000
+13,Alexander Li,Laki-laki,Pengusaha,34,Bali,9.1,Aston Martin Vantage,2800000000
+14,Sophia Khan,Perempuan,Insinyur,31,Bandung,7.9,Alfa Romeo 4C,1700000000
+15,Mason Patel,Laki-laki,Pengacara,39,Jakarta,8.8,Bentley Continental GT,3200000000
+16,Lily Kumar,Perempuan,Guru,36,Surabaya,7.3,Lotus Evora,1400000000
+17,Lucas Wu,Laki-laki,Dokter,43,Medan,9.4,Porsche Cayman,2800000000
+18,Ava Lee,Perempuan,CEO,27,Yogyakarta,7.7,McLaren 570S,1900000000
+19,Chloe Gupta,Perempuan,Dokter Hewan,44,Denpasar,9.0,Lexus LC,2600000000
+20,Jack Kim,Laki-laki,Arsitek,26,Bandung,8.3,BMW i8,2400000000
+21,Emma Nguyen,Perempuan,Marketing,33,Jakarta,7.6,Audi TT RS,1800000000
+22,Noah Lee,Laki-laki,Desainer Interior,38,Surabaya,8.5,Porsche 718 Cayman,2000000000
+23,Mia Kim,Perempuan,Public Relations,30,Bali,6.9,Mercedes-Benz SLK,1500000000
+24,Aiden Lee,Laki-laki,Akuntan,35,Medan,8.7,Nissan 370Z,1600000000
+25,Sophie Patel,Perempuan,Pengacara,41,Jakarta,8.1,Toyota 86,1200000000
+26,Liam Singh,Laki-laki,Manajer Proyek,29,Bandung,7.8,Chevrolet Camaro,1400000000
+27,Aria Wang,Perempuan,Pengusaha,34,Denpasar,8.9,Ford Focus RS,1100000000
+28,Ella Chen,Perempuan,Dokter Gigi,39,Surabaya,7.2,Subaru WRX STI,1700000000
+29,Logan Huang,Laki-laki,Insinyur,28,Bandung,9.3,Honda Civic Type R,1300000000
+30,Zoe Kim,Perempuan,Pengacara,37,Jakarta,8.0,Volkswagen Golf R,1000000000
+31,Luca Singh,Laki-laki,Akuntan,32,Medan,8.7,Mini Cooper S,900000000
+32,Grace Wong,Perempuan,Dosen,43,Surabaya,8.4,Ford Fiesta ST,800000000
+33,Lucas Tan,Laki-laki,Pilot,39,Yogyakarta,8.8,Mazda MX-5,700000000
+34,Amelia Li,Perempuan,Pengusaha,30,Denpasar,7.5,Audi S3,600000000
+35,Dylan Chen,Laki-laki,CEO,33,Bandung,8.2,BMW M2,1500000000
+36,Eva Huang,Perempuan,Desainer,26,Jakarta,7.9,Mercedes-AMG A45,1600000000
+37,Jackson Wong,Laki-laki,Insinyur,35,Surabaya,8.6,Porsche Macan,1700000000
+38,Layla Tan,Perempuan,Arsitek,40,Bali,8.1,Land Rover Range Rover Evoque,1800000000
+39,Leo Kim,Laki-laki,Dokter Hewan,27,Medan,9.0,Jeep Wrangler,1900000000
+40,Luna Wang,Perempuan,Pengusaha,31,Jakarta,8.5,Bentley Bentayga,2000000000
+41,Max Chen,Laki-laki,Pengacara,38,Denpasar,7.0,Lexus NX,2100000000
+42,Nova Tan,Perempuan,CEO,36,Surabaya,8.3,Cadillac XT5,2200000000
+43,Nora Li,Perempuan,Dosen,29,Bandung,9.2,Alfa Romeo Stelvio,2300000000
+44,Oscar Huang,Laki-laki,Insinyur,44,Jakarta,8.7,Infiniti QX50,2400000000
+45,Phoebe Lee,Perempuan,Manajer Proyek,32,Medan,7.4,Maserati Levante,2500000000
+46,Quinn Chen,Laki-laki,Marketing,28,Denpasar,8.9,Volvo XC60,2600000000
+47,Ryan Kim,Laki-laki,Dokter,35,Jakarta,8.6,Porsche Cayenne,2700000000
+48,Scarlett Tan,Perempuan,Pengacara,30,Bandung,7.1,Jaguar F-Pace,2800000000
+49,Tony Wong,Laki-laki,CEO,37,Surabaya,9.4,Land Rover Range Rover Sport,2900000000
+50,Vivian Liu,Perempuan,Desainer,39,Yogyakarta,8.7,Audi Q7,3000000000
+51,Weston Huang,Laki-laki,Dokter Gigi,33,Jakarta,7.6,BMW X5,3100000000
+52,Yara Singh,Perempuan,Manajer Keuangan,41,Bandung,8.5,Porsche Panamera,3200000000
+53,Zara Kim,Perempuan,Pengusaha,27,Denpasar,7.3,Lamborghini Urus,3300000000
+54,Aadi Wang,Laki-laki,Pengusaha,34,Medan,8.2,Land Rover Range Rover,3400000000
+55,Abby Chen,Perempuan,Dosen,35,Jakarta,9.1,Lexus RX,3500000000
+56,Adrian Tan,Laki-laki,Insinyur,40,Bandung,7.8,Toyota Land Cruiser,3600000000
+57,Agnes Kim,Perempuan,CEO,32,Denpasar,8.9,Audi Q5,3700000000
+58,Ahaan Li,Laki-laki,Desainer,29,Surabaya,7.5,Porsche Macan,3800000000
+59,Aiden Wong,Laki-laki,Marketing,36,Jakarta,8.4,Mercedes-Benz GLE,3900000000
+60,Aina Singh,Perempuan,Manajer Proyek,31,Medan,9.3,BMW X3,4000000000
+61,Ajay Huang,Laki-laki,Dokter,38,Bandung,8.0,Volvo XC90,4100000000
+62,Alaina Lee,Perempuan,Akuntan,26,Denpasar,8.7,Land Rover Discovery,4200000000
+63,Alec Patel,Laki-laki,Pengusaha,42,Jakarta,6.9,Lexus LX,4300000000
+64,Aleena Wang,Perempuan,Pengusaha,29,Surabaya,7.8,Audi A7,4400000000
+65,Ali Khan,Laki-laki,Dosen,34,Yogyakarta,8.5,Jaguar XF,4500000000
+66,Alia Chen,Perempuan,CEO,35,Medan,8.0,Porsche 911,4600000000
+67,Alina Tan,Perempuan,Dokter Hewan,37,Denpasar,9.7,Maserati Ghibli,4700000000
+68,Alisa Wang,Perempuan,Pengusaha,33,Jakarta,8.4,Mercedes-Benz E-Class,4800000000
+69,Amelia Singh,Perempuan,Desainer,30,Bandung,7.9,Audi A6,4900000000
+70,Amaya Kumar,Perempuan,Insinyur,28,Surabaya,8.6,BMW 5 Series,5000000000
+71,Amber Kim,Perempuan,Pengusaha,39,Denpasar,9.3,Volvo S90,5100000000
+72,Amy Wang,Perempuan,Manajer Proyek,31,Jakarta,8.8,Mercedes-Benz C-Class,5200000000
+73,Ananya Gupta,Perempuan,Akuntan,36,Bandung,8.5,BMW 3 Series,5300000000
+74,Andrew Lee,Laki-laki,Pengusaha,32,Medan,7.0,Lexus ES,5400000000
+75,Anika Tan,Perempuan,Pengacara,44,Yogyakarta,6.7,Audi A5,5500000000
+76,Annie Li,Perempuan,CEO,41,Jakarta,8.4,Mercedes-Benz CLA-Class,5600000000
+77,Aria Kim,Perempuan,Insinyur,27,Denpasar,8.1,Volvo V60,5700000000
+78,Arjun Patel,Laki-laki,Dosen,39,Surabaya,7.8,Alfa Romeo Giulia,5800000000
+79,Armaan Singh,Laki-laki,Desainer,28,Medan,8.5,Audi A4,5900000000
+80,Arya Tan,Perempuan,Pengusaha,38,Jakarta,9.2,BMW X1,6000000000
+81,Ava Chen,Perempuan,Manajer Keuangan,30,Bandung,7.9,Acura ILX,6100000000
+82,Ayaan Kumar,Laki-laki,Pengusaha,35,Denpasar,8.6,Audi Q3,6200000000
+83,Carol Wang,Perempuan,Akuntan,32,Surabaya,9.1,BMW X2,6300000000
+84,Daanya Lee,Perempuan,Pengacara,39,Jakarta,7.8,Lincoln MKZ,6400000000
+85,Dev Li,Laki-laki,Manajer Proyek,41,Medan,8.5,Buick Regal,6500000000
+86,Dylan Tan,Laki-laki,Dokter,37,Yogyakarta,8.0,Cadillac CTS,6600000000
+87,Eesha Shah,Perempuan,Pengusaha,34,Bandung,9.7,Lexus IS,6700000000
+88,Ehan Wang,Laki-laki,Insinyur,31,Denpasar,9.4,Audi S4,6800000000
+89,Eisha Kumar,Perempuan,CEO,29,Jakarta,8.1,BMW M3,6900000000
+90,Ela Patel,Perempuan,Pengusaha,38,Surabaya,8.8,Lexus GS,7000000000
+91,Eliana Lee,Perempuan,Desainer,36,Medan,8.3,BMW 7 Series,7100000000
+92,Elina Tan,Perempuan,Dokter Hewan,33,Denpasar,7.6,Buick LaCrosse,7200000000
+93,Emily Chen,Perempuan,Public Relations,26,Jakarta,9.2,Cadillac CT6,7300000000
+94,Eva Singh,Perempuan,Pengusaha,35,Medan,8.9,Chevrolet SS,7400000000
+95,Evan Wang,Laki-laki,Pengusaha,41,Yogyakarta,8.4,Genesis G80,7500000000
+96,Eve Gupta,Perempuan,Pengacara,40,Jakarta,9.1,Honda Accord,7600000000
+97,Evelyn Kim,Perempuan,Manajer Keuangan,37,Denpasar,8.6,Hyundai Genesis,7700000000
+98,Faizan Patel,Laki-laki,Akuntan,32,Surabaya,8.3,Infiniti Q70,7800000000
+99,Farah Tan,Perempuan,Dosen,39,Jakarta,7.8,Jaguar XF,7900000000
+100,Farhan Shah,Laki-laki,Insinyur,28,Bandung,8.5,Kia K900,8000000000
+... (900 rows omitted for brevity)
