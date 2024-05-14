@@ -1,4 +1,4 @@
-user id, nama, jenis kelamin, pekerjaan, usia, kota, rating, mobil, harga
+User ID, Name, Jenis Kelamin, Pekerjaan, Usia, City, Rating, Car Make, Price
 1,John Doe,Laki-laki,Dokter,35,Jakarta,4.5,Porsche 911,1500000000
 2,Jane Smith,Perempuan,Insinyur,28,Bandung,4.2,Ferrari 488,2000000000
 3,Michael Johnson,Laki-laki,Pengacara,42,Surabaya,4.8,Lamborghini Aventador,3000000000
